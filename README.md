@@ -97,7 +97,7 @@ Before introducing RAG, the local Phi-3 Mini model generates general responses t
 
 The profile document is chunked, embedded with Nomic Embed Text, and stored in ChromaDB. The current MVP indexes four chunks.
 
-![ChromaDB Knowledge Base](screenshots/chromadb.png)
+![ChromaDB Knowledge Base](screenshots/Chromadb.png)
 
 ### RAG API
 
